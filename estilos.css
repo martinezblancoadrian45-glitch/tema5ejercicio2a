@@ -1,0 +1,21 @@
+* {
+    background-color: lightblue;
+    text-align: justify;
+}
+section {
+    background-color: lightyellow;
+    border: solid 2px yellow;
+}
+article {
+    background-color: lightyellow;
+    float: right;
+}
+h1 {
+    background-color: lightyellow;
+}
+h2 {
+    background-color: lightyellow;
+}
+p {
+    background-color: lightyellow;
+}
